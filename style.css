@@ -166,6 +166,7 @@ section{
     width: 100%;
     height: 500px;
 }
+
 .bonus-area{
     background-image: url("images/latest-work-bg.png");
     background-size: cover;
@@ -182,6 +183,11 @@ section{
 .bonus-highlight:hover{
     font-size: 50px;
     color: #db266b;
+}
+.about-mithila{
+    color: #fc8c9e;
+    font-weight: 700;
+    font-size: 15px;
 }
 
 .bonus-area h5::before{
